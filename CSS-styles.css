@@ -35,7 +35,7 @@ a {
     color: white;
 }
 
-a {
-    background: #000;
-    color: white;
+nav {
+    font-size: 20px;
+    margin-bottom: 50px;
 }
