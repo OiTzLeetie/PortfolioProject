@@ -42,3 +42,6 @@ nav {
     margin-bottom: 50px;
 }
 
+.nav-link:hover {
+    color: red;
+}
