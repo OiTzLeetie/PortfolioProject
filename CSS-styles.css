@@ -17,7 +17,7 @@ body {
 
 p {
     color: white;
-    font-size: 25px;
+    font-size: 17px;
 }
 
 h2 {
@@ -43,5 +43,47 @@ nav {
 }
 
 .nav-link:hover {
-    color: red;
+    color:tan;
+}
+
+h4 {
+    color: white;
+    font-size: 24px;
+
+}
+
+div > p {
+    margin-top: 45px;
+}
+
+h5 {
+    font-style: oblique;
+    font-size: 45px;
+    color: white;
+    margin-bottom: 45px;
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 120px;
+}
+
+h3 {
+    font-style: oblique;
+    color: white;
+    margin-top: 25px;
+}
+
+.row-content {
+    margin-bottom: 50px;
+}
+
+label {
+    color: white;
+}
+
+
+
+.btn-primary {
+    margin-top:15px;
 }
