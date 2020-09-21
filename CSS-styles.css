@@ -86,3 +86,7 @@ label {
 .btn-primary {
     margin-top:15px;
 }
+
+div > h2:hover {
+    color:tan;
+}
